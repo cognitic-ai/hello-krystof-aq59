@@ -9,7 +9,7 @@ export default function IndexRoute() {
         backgroundColor: "white",
       }}
     >
-      <Text>Hello krystof</Text>
+      <Text style={{ fontSize: 32 }}>Hello krystof</Text>
     </ScrollView>
   );
 }
