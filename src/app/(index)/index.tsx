@@ -9,7 +9,7 @@ export default function IndexRoute() {
         backgroundColor: "white",
       }}
     >
-      <Text>Hello world</Text>
+      <Text>Hello krystof</Text>
     </ScrollView>
   );
 }
